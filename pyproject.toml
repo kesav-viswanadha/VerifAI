@@ -28,7 +28,7 @@ classifiers = [
 python = "^3.8,<3.11"
 numpy = "^1.21.5"
 scipy = "^1.7.3"
-metric-temporal-logic = "^0.1.5"
+metric-temporal-logic = {version = "^0.1.5", optional = true}
 matplotlib = "^3.2.1"
 easydict = "^1.9"
 joblib = "^1.2.0"
